@@ -1,24 +1,54 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# 💸 FinAI — AI Finance Platform (Group Project)
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+A full-stack finance management platform offering AI-powered insights into spending, income tracking, and budgeting.
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
-DIRECT_URL=
+## 🚀 Overview
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+FinAI helps users manage financial transactions, analyze spending patterns, and gain intelligent insights powered by AI.  
+This project was developed collaboratively as a **group project** to explore modern full-stack frameworks and cloud-based backends.
 
-GEMINI_API_KEY=
+---
 
-RESEND_API_KEY=
+## 🧰 Tech Stack
 
-ARCJET_KEY=
-```
+- **Frontend:** Next.js (React)
+- **Backend & Database:** Supabase, Prisma
+- **Styling:** TailwindCSS, Shadcn/UI
+- **Authentication:** Supabase Auth
+- **Deployment:** Render / Vercel (free tier)
+
+---
+
+## 👩‍💻 Team & Contributions
+
+| Name | Role |
+|------|------|
+| **Aditi Nagdali** | Frontend development, dashboard UI, Supabase configuration, deployment setup |
+| **Tanishhkaa** | Backend API integration and Prisma schema setup |
+| **Amisha** | Data ingestion module, AI insights, and testing |
+
+---
+
+## ⚙️ Local Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/aditi1586/ai-finance-platform-aditi.git
+   cd ai-finance-platform-aditi
+2. Install dependencies
+   npm install
+3. Set up environment variables
+   Create a .env.local file and add:
+   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_key
+4. Run the development server
+   npm run dev
+5. Open http://localhost:3000 in your browser.
+
+
+📜 Acknowledgement
+This project was inspired by open-source examples and customized collaboratively for educational purposes.
+
+---
