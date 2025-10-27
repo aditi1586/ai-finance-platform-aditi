@@ -25,8 +25,8 @@ This project was developed collaboratively as a **group project** to explore mod
 
 | Name | Role |
 |------|------|
-| **Aditi Nagdali** | Frontend development, dashboard UI, Supabase configuration, deployment setup |
-| **Tanishhkaa** | Backend API integration and Prisma schema setup |
+| **Aditi Nagdali** | Frontend development, dashboard UI|
+| **Tanishhkaa** | Backend API integration and Prisma schema setup, Supabase |
 | **Amisha** | Data ingestion module, AI insights, and testing |
 
 ---
