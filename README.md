@@ -20,15 +20,6 @@ This project was developed collaboratively as a **group project** to explore mod
 - **Deployment:** Render / Vercel (free tier)
 
 ---
-
-## 👩‍💻 Team & Contributions
-
-| Name | Role |
-|------|------|
-| **Aditi Nagdali** | Frontend development, dashboard UI|
-| **Tanishhkaa** | Backend API integration and Prisma schema setup, Supabase |
-| **Amisha** | Data ingestion module, AI insights, and testing |
-
 ---
 
 ## ⚙️ Local Setup Instructions
